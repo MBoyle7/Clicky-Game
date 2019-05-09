@@ -59,9 +59,9 @@ class App extends Component {
   render(){
     return(
         <div>
-          <Navbar>
-            {this.state.score}
-          </Navbar>
+          <Navbar
+            score={this.state.score}
+          />
           <br/>
           <Summary/> 
           <br/>
