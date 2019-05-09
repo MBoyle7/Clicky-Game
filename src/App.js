@@ -27,7 +27,7 @@ class App extends Component {
             userChoice: [],
             score: 0
           });
-            alert("You lose. Play again?");
+            alert("You've lost. Would you like to play again?");
 
         } else {
           this.setState(
@@ -42,7 +42,7 @@ class App extends Component {
             },
             () => {
               if (this.state.score === 12) {
-                alert("Yay! You Win!");
+                alert("You've won the game. Congratulations!");
                 this.setState({
                   character: this.state.character.sort(function() {
                     return 0.5 - Math.random();
