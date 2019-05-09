@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/MBoyle7/Clicky-Game/static/css/main.ff914f97.chunk.css",
+    "main.js": "/MBoyle7/Clicky-Game/static/js/main.080b1886.chunk.js",
+    "main.js.map": "/MBoyle7/Clicky-Game/static/js/main.080b1886.chunk.js.map",
+    "runtime~main.js": "/MBoyle7/Clicky-Game/static/js/runtime~main.3a6e3381.js",
+    "runtime~main.js.map": "/MBoyle7/Clicky-Game/static/js/runtime~main.3a6e3381.js.map",
+    "static/js/2.2b07132e.chunk.js": "/MBoyle7/Clicky-Game/static/js/2.2b07132e.chunk.js",
+    "static/js/2.2b07132e.chunk.js.map": "/MBoyle7/Clicky-Game/static/js/2.2b07132e.chunk.js.map",
+    "index.html": "/MBoyle7/Clicky-Game/index.html",
+    "precache-manifest.a00db536161a3e20b9db8a2277be6c8e.js": "/MBoyle7/Clicky-Game/precache-manifest.a00db536161a3e20b9db8a2277be6c8e.js",
+    "service-worker.js": "/MBoyle7/Clicky-Game/service-worker.js",
+    "static/css/main.ff914f97.chunk.css.map": "/MBoyle7/Clicky-Game/static/css/main.ff914f97.chunk.css.map",
+    "static/media/Poppins.jpg": "/MBoyle7/Clicky-Game/static/media/Poppins.2281cd72.jpg",
+    "static/media/Ruby_Taft.jpg": "/MBoyle7/Clicky-Game/static/media/Ruby_Taft.34b4f15e.jpg",
+    "static/media/carmen.jpg": "/MBoyle7/Clicky-Game/static/media/carmen.1461e705.jpg",
+    "static/media/charlie.jpg": "/MBoyle7/Clicky-Game/static/media/charlie.fa4ddeca.jpg",
+    "static/media/cricket.jpg": "/MBoyle7/Clicky-Game/static/media/cricket.099b5141.jpg",
+    "static/media/dee.jpg": "/MBoyle7/Clicky-Game/static/media/dee.c9666414.jpg",
+    "static/media/dennis.jpg": "/MBoyle7/Clicky-Game/static/media/dennis.66bcfe79.jpg",
+    "static/media/frank.jpg": "/MBoyle7/Clicky-Game/static/media/frank.5fffb547.jpg",
+    "static/media/jack.jpg": "/MBoyle7/Clicky-Game/static/media/jack.df3e310f.jpg",
+    "static/media/lawyer.jpg": "/MBoyle7/Clicky-Game/static/media/lawyer.35ec7b34.jpg",
+    "static/media/mac.jpeg": "/MBoyle7/Clicky-Game/static/media/mac.1dbcc50b.jpeg",
+    "static/media/mcpoyles.jpg": "/MBoyle7/Clicky-Game/static/media/mcpoyles.181af9a7.jpg",
+    "static/media/moms.jpg": "/MBoyle7/Clicky-Game/static/media/moms.7dccbde2.jpg",
+    "static/media/pondy.jpg": "/MBoyle7/Clicky-Game/static/media/pondy.1a70b8ec.jpg",
+    "static/media/waitress.jpg": "/MBoyle7/Clicky-Game/static/media/waitress.7b83c33d.jpg"
+  }
+}
